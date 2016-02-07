@@ -1,0 +1,9 @@
+Origin: DBDexter's repo
+Label: DBDexter's repo
+Suite: stable
+Version: 1.0
+Codename: DBDexter
+Architectures: iphoneos-arm
+Components: main
+Descriptiot: DBDexter's repo
+MD5Sum:
